@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hack3-2022-project-submissions",
+  "private_key_id": "50ae0c759153458dee5c96278ff7d39528728ec4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDlAuLus2y3rXwX\nWn0nNUO0cIqOi1pcxLOfRapEODqADC++jyXXISIpG26J0MHQLK5wMrTpIDlid8qq\nY/gf5YAzrJULVOVBhxhyxOjucBSSd1iI0JyZI4KOp7UMxws33uYmkNVWLPJjHvLs\nHwuZ2ryNmB7tTOBg8cViIbe9NsUWaCdAZ0C8ImeKHV8v90JDZml9i0i3GUFYjRPQ\nhQuSgHsxdqHRv7m1gzhXh9/4y7+/dptHM4FpPBl+A3GzaPX+vXmuRdu0j8KSOYrH\nUKDid7vnWv718U7jNWVCcMwCAXqs2Dg4ikXdzODtBdWVyVQpf02SbCVz1fc9oNkZ\nsv/hxvRRAgMBAAECggEAN0nBG7u5jYaWpNS1zldvpwpciRlfkXHzo4ogFyQ0C2Hl\nzO2mRw+6vY3f2+nIQMfovTGgt3+OGxWsmgJUju7LSq5ptTijuHQzFNIxIg9xCANE\nHpOumtIV3PbkINeU/8ISclEZEBr90axRHWxJUrWaO9zz6npa2UzFSHG3eDjW0BeU\nJvfmNIEyryu5OLGgV/wfZQTQZUWyqbuD+aeLQ+teEhAYKPo8aY1PBIpJq2bj4x4K\nAbHxAb9LFrp4yqZN6ugyLB7Ex6Ybjq0ICoZPgTyUXybVbhh4Ok8oPi3iXQmwVusE\nsYafqXx0H/bX8URbTTnkJuPwYeNQU70KrVLn5MJr+QKBgQD02APJhOL9w37+E3tc\n+er0n5ZZuI3i4aU7BeNcarodPS1QrsP9EX2rPKyL4szkhJQi5ZKweWF2XVpcv4AJ\no7SdybmJgF3xaFkGjPFdTRMnFgA1rdiod8LbB15vHfLeX3U7DqXOlTzZMBwvxdMf\nimbeygog6s8w6QmNSPVTtHmdHwKBgQDvcjFaeT1KYXRm7ed502Se0ck5hJxDEJSW\n2vLklyXURYoprCan91IjWtf98tfwVCBr5QsCpZ2HKw4eF66qhAhrulXghDTfKaxf\neWdagHRhHGDDcRkZDwE9GGE3JOfadL8wWS50PWWD9hO/5ImxeR4rp8t9oRMqRgHA\n/Cy+qPHQjwKBgQCSnTfHWHfElWhaJLheeJklWtrhZw4vqgcTTPdUw+Qm1hdolP5v\ncCXcgDyil3Ex9eHu86HfYw/lnQkbOOEm5IynX8BmgiO/B0koDwYJZLnvUdFWU3/F\ngdGA7uyxhTGFz4uXjbHj/qGtPI3kXYWLAYmQJ1PhWjovg5xgqiudsBiS6QKBgQCA\nHf+eQySyObbIpB6opp0+BU2/wt7BW4vFs90mxmDtVU/5wCzmzoRaem77aAZ2huza\nDjF39xl0i2sAWveQMRk4Wvk8KkEH7wpWA2VznSuoEkEMEeW17Lti7zqFAPA1iSYL\nPoyGkZtRokcq86NhHEcyYJOW4qqYgeDKW6OtWEQarQKBgHj0KYrt40mNG3KeCZAD\nIHFNUbZlHe22/GcdmCVzM2CMu/1bvlGGnVFxLP78x/TlFIb0I1zvjjikmsGDRZI5\nlO61i9Luqr6yJZK7R1ZnnO5i3l//rjz/MASyHjMvUFBH7u5VBRt2X0be2aPgOGCP\n7OQfOYDNjj916U29x5QdK7bd\n-----END PRIVATE KEY-----\n",
+  "client_email": "notifyparticipants@hack3-2022-project-submissions.iam.gserviceaccount.com",
+  "client_id": "104485124219460590680",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/notifyparticipants%40hack3-2022-project-submissions.iam.gserviceaccount.com"
+}
